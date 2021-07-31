@@ -427,14 +427,10 @@ section {
     }
 
     .causes-info {
-        position: absolute;
-        right: 35.6%;
-        top: 50%;
         bottom: 0;
-        padding: 0 0 1em 0;
-        width: 18em;
+        padding: 0 0 1.4em 0;
+        width: 21em;
         text-align: unset;
-
     }
 }
 
