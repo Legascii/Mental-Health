@@ -398,6 +398,7 @@ section {
     .treatments {
         padding: 2em;
         margin-left: 5em;
+        margin-top: 8em;
         width: 30em;
         height: 40em;
         text-align: unset;
@@ -424,6 +425,10 @@ section {
 
     .symptoms-cause .container {
         width: 25em;
+    }
+    
+    .causes h1 {
+        margin-left: .2em;
     }
 
     .causes-info {
